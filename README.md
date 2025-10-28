@@ -8,6 +8,7 @@ When using reaction commands Axel's model will turn into spaghetti. This is norm
 
 
 Misc:
+
 The Roxas prologue hasn't been altered. Once you defeat Axel 2 you'll start playing as Axel.
 
 Axel doesn't have any new weapons but you can still equip keyblades onto him in order to get the stats and abilities.
