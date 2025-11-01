@@ -17,7 +17,7 @@ Drive Forms have been removed completely and have been replaced with Hi potions.
 
 High Jump: Defend the Baily with Leon
 
-Quick Run: Defeat Timeless River Pete
+Quick Run: Escort Queen Minnie *
 
 Dodge Roll: Defeat the Fire/Blizzard lords
 
