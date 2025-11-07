@@ -1,3 +1,18 @@
+Changelog:
+V0.6-
+*Magic cast can now be comboed into each other and into other moves. A few changes have also been made to the following attacks:
+
+*Chakram Barrage: The Startup has been removed.
+
+*Flame Juggle: The attack's knockup has been cut in half, and the hit box size has increased to help hit enemies below.
+
+*Fire Windmill: Hitbox size increase.
+
+*Basic aerial hit: Hitbox size increase.
+
+
+
+
 Known Bugs:
 
 Axel's sound effects stop playing sometimes. Might be a Ram thing, I'm still looking into it.
