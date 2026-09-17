@@ -1,0 +1,9 @@
+CREDITS:
+OpenKH - This mod would not exist without the community's tools and documentation
+Xaddgx - Extensive modding tutorials
+Disgustor - Animation tools
+str_petrichor - Effect Toolkit
+Omni - Custom animations and ai guidance 
+Kité - Far too much to list 
+Zack "The Puppy" Fair - Coat animation guidance
+Jun (makaihana975 @deviantart) - All the 358/2 Days weapon models and textures
